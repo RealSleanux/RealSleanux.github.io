@@ -16,3 +16,10 @@ This is a static website for showcasing my GitHub profile and projects. The site
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/my-github-profile.git
+
+2. Open index.html in your web browser to view the site.
+
+## License
+**!!DICLAIMER!!** **The website itself (i.e. code) is licensed under an open-source, copyleft license, but its content (i.e. Ebrein) isn't! All Rights Reserved!**
+
+This website is licensed under the MIT License.
