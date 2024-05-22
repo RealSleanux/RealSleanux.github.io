@@ -13,9 +13,7 @@ This is a static website for showcasing my GitHub profile and projects. The site
 
 ## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/my-github-profile.git
+1. Download as zip
 
 2. Open index.html in your web browser to view the site.
 
