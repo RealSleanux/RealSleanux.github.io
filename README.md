@@ -1,4 +1,6 @@
 # My GitHub Website
+![Website licence](https://img.shields.io/badge/Website%20licence-MIT%20License-blue?style=flat)
+![Content license](https://img.shields.io/badge/Content%20license-All%20Rights%20Reserved.-red?style=flat)
 
 This is a static website for showcasing my GitHub profile and projects. The site is built using HTML, CSS, and JavaScript.
 
